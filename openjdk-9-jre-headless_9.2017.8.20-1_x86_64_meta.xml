@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>openjdk-9-jre-headless_9.2017.8.20-1_x86_64</identifier>
+  <mediatype>software</mediatype>
+  <collection>open_source_software</collection>
+  <date>2018-09-11</date>
+  <description>A build of OpenJDK 9 that can be used in Termux (android terminal emulator).</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
+  <subject>Termux</subject>
+  <title>OpenJDK-9 for Termux</title>
+  <subject>Software</subject>
+  <publicdate>2018-09-19 10:25:58</publicdate>
+  <uploader>leonid.plyushch@gmail.com</uploader>
+  <addeddate>2018-09-19 10:25:58</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20180919103142[/date][comment]checked for malware[/comment]</curation>
+  <year>2018</year>
+  <backup_location>ia906802_3</backup_location>
+</metadata>

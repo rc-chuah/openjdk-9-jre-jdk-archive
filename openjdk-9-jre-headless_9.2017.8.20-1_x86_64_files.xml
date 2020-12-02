@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="CHECKSUMS.sha256" source="original">
+    <mtime>1537352758</mtime>
+    <size>1122</size>
+    <md5>f74bc5b6c0f459acf025e6d3595bf07c</md5>
+    <crc32>a754e502</crc32>
+    <sha1>5d7f9c7f4739a68a19eb74f136653030689dd48d</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="CHECKSUMS.sha256.sig" source="original">
+    <mtime>1537352787</mtime>
+    <size>566</size>
+    <md5>c13d3be7395b571cd8f6fdabcc6021cb</md5>
+    <crc32>7a7f9bf2</crc32>
+    <sha1>94bdb8800edf8ea07742d57753268187b0dfeabf</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jdk-headless_9.2017.8.20-1_aarch64.deb" source="original">
+    <mtime>1537352792</mtime>
+    <size>35656</size>
+    <md5>031b3e0248522fbc521fc94985d9e413</md5>
+    <crc32>6370fbd4</crc32>
+    <sha1>5dc9bf8e5590eac57a2e455484fdc33dfd694775</sha1>
+    <format>Unknown</format>
+    <length>0.09</length>
+  </file>
+  <file name="openjdk-9-jdk-headless_9.2017.8.20-1_arm.deb" source="original">
+    <mtime>1537352797</mtime>
+    <size>34976</size>
+    <md5>df64edd998f0f7dbcc3424f990e8d19d</md5>
+    <crc32>fc4f0f0d</crc32>
+    <sha1>7c2fb8270ddddd034c0575d01e12bb0b29786f65</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jdk-headless_9.2017.8.20-1_i686.deb" source="original">
+    <mtime>1537352802</mtime>
+    <size>36000</size>
+    <md5>9737009ae2c00a05ccb6aa9bf81220c2</md5>
+    <crc32>baba1eae</crc32>
+    <sha1>ce87d410d142efe0b4fc469dfcc5a1920a3361ed</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jdk-headless_9.2017.8.20-1_x86_64.deb" source="original">
+    <mtime>1537352808</mtime>
+    <size>35736</size>
+    <md5>fe5a0fc9c11df68a787268905a5a055a</md5>
+    <crc32>616ac10e</crc32>
+    <sha1>608a26b7ba53ba2c57e56fb7fdbd5793983c32bc</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jre-headless-termux-build.sh.tar.bz2" source="original">
+    <mtime>1537353668</mtime>
+    <size>6427</size>
+    <md5>bce18e25b7601f1412cc49c9c6f84b9c</md5>
+    <crc32>19b55c36</crc32>
+    <sha1>acbe253d3db3490f409c8cec36492f7e14f21bcf</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_aarch64.deb" source="original">
+    <mtime>1537353020</mtime>
+    <size>244524068</size>
+    <md5>ef0c60179eb020addbb6a7478a78bdf9</md5>
+    <crc32>c00cc189</crc32>
+    <sha1>0b01ac2392f138e053f679315da8a84f4be18a02</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_arm.deb" source="original">
+    <mtime>1537353222</mtime>
+    <size>231576072</size>
+    <md5>fe483714834b205ab99de220a69892f1</md5>
+    <crc32>9f7dd0a5</crc32>
+    <sha1>8105f59228baac439c5eba26351c4f91d223b0a4</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_i686.deb" source="original">
+    <mtime>1537353435</mtime>
+    <size>245617472</size>
+    <md5>86e97536b7c0c8b5e00b148965a7087e</md5>
+    <crc32>65ea69e6</crc32>
+    <sha1>d037b4c385ce6360e7b0c0ac05671d805d0318e3</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_x86_64.deb" source="original">
+    <mtime>1537353665</mtime>
+    <size>261095788</size>
+    <md5>2cabe6c97eac42a8ba9c01f06f260d11</md5>
+    <crc32>7b9e8851</crc32>
+    <sha1>d1879d92cab6784d7ff4b5ede033ed2a53e7ccf9</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_x86_64_archive.torrent" source="metadata">
+    <btih>9ae16d59202f05476d2b8bd10acb3a03fb50ef31</btih>
+    <mtime>1594265493</mtime>
+    <size>43622</size>
+    <md5>767e8bf5f448352b3d950f4512279c90</md5>
+    <crc32>ba4b7a86</crc32>
+    <sha1>eb0bff0b0bbab9f9ee0517f550decb1f53477f73</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_x86_64_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>03974ad00390ddaf3300d55c95522d6c</md5>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_x86_64_meta.sqlite" source="original">
+    <mtime>1537353731</mtime>
+    <size>33792</size>
+    <format>Metadata</format>
+    <md5>18fe110be55d519f32bb078f964c1828</md5>
+    <crc32>024e39a0</crc32>
+    <sha1>e02e9735f9a510a575839b2399caa8d9cc3c990d</sha1>
+  </file>
+  <file name="openjdk-9-jre-headless_9.2017.8.20-1_x86_64_meta.xml" source="metadata">
+    <mtime>1594265489</mtime>
+    <size>867</size>
+    <format>Metadata</format>
+    <md5>93f139a26979461dd57a2fbb3c7223fb</md5>
+    <crc32>f61d6fc4</crc32>
+    <sha1>c0e6ad88060c97793c49578ce43cc47b515b753c</sha1>
+  </file>
+  <file name="openjdk-9-source_9.2017.8.20-1_all.deb" source="original">
+    <mtime>1537353717</mtime>
+    <size>53807996</size>
+    <md5>958756580ecda1c6ceffdbb2868f84b5</md5>
+    <crc32>bbeefbc4</crc32>
+    <sha1>298dfb15760d39d383331863a96e1b098878add3</sha1>
+    <format>Unknown</format>
+  </file>
+</files>
